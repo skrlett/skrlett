@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gajjela-Koushik-Reddy
 - 👀 I’m interested in fullstack webdevelopment
 - 🌱 I’m currently learning MERN stck
-- 📫 Twitter: @KoushikReddy22
+- 📫 Twitter: [@KoushikReddy22](https://twitter.com/KoushikReddy22)
 
 <!---
 Gajjela-Koushik-Reddy/Gajjela-Koushik-Reddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
