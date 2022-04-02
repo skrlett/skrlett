@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gajjela-Koushik-Reddy
 - 👀 I’m interested in fullstack webdevelopment
-- 🌱 I’m currently learning MERN stck
+- 🌱 I’m currently learning MERN stack
 - 📫 Twitter: [@KoushikReddy22](https://twitter.com/KoushikReddy22)
 
 <!---
