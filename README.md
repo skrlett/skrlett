@@ -7,6 +7,7 @@ You can click the Preview link to take a look at your changes.
 <div />
 
 [![Linkedin Badge](https://img.shields.io/badge/-koushikreddyg-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/koushikreddyg/)
+<img src="https://komarev.com/ghpvc/?username=Gajjela-Koushik-Reddy&style=flat-square&color=blue" alt=""/>
 
 ---
 
